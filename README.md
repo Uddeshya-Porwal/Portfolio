@@ -1,6 +1,6 @@
 <h1>Hi, I'm Uddeshya! <br/>An Architect</a>, 3D-Modelling</a>, Graphic Designer</a></h1>
 
-<h2>👨‍💻 Architectural Projects:</h2>
+<h2>👨‍💻 Glimpse of Architectural Resume:</h2>
 
 - <b>Railway Station Development</b>
   - [Durgapura Railway Station, Jaipur]
